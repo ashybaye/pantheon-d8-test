@@ -1,0 +1,4 @@
+name: pantheon-d-8-test
+recipe: drupal8
+config:
+  webroot: web
